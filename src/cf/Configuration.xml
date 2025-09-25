@@ -247,6 +247,7 @@
 			<Language>Русский</Language>
 			<Catalog>Справочник1</Catalog>
 			<Document>ДокументПродажи</Document>
+			<Document>ДокументПокупки</Document>
 			<AccumulationRegister>РегистрНакопления1</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
